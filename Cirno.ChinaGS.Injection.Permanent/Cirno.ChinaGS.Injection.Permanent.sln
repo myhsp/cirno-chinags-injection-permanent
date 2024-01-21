@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cirno.ChinaGS.Injection.Permanent", "Cirno.ChinaGS.Injection.Permanent\Cirno.ChinaGS.Injection.Permanent.csproj", "{AD5E9334-3F2B-4741-98B7-E630613B7D6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirnoFramework.Interface.Commands", "CirnoFramework.Interface.Commands\CirnoFramework.Interface.Commands.csproj", "{19D27DDD-2F76-440B-B4B0-A9A032870D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirnoPM", "CirnoPM\CirnoPM.csproj", "{1169FA4B-85D5-4808-A943-EC9DEBE1049A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirnoBuiltins", "CirnoBuiltins\CirnoBuiltins.csproj", "{60030AF1-26EF-4CBF-835E-C08ACCDBD105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipExtractHelper", "ZipExtractHelper\ZipExtractHelper.csproj", "{25829838-DB87-4553-AAFE-260B53BBD9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5E9334-3F2B-4741-98B7-E630613B7D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5E9334-3F2B-4741-98B7-E630613B7D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5E9334-3F2B-4741-98B7-E630613B7D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5E9334-3F2B-4741-98B7-E630613B7D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D27DDD-2F76-440B-B4B0-A9A032870D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D27DDD-2F76-440B-B4B0-A9A032870D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D27DDD-2F76-440B-B4B0-A9A032870D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D27DDD-2F76-440B-B4B0-A9A032870D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1169FA4B-85D5-4808-A943-EC9DEBE1049A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1169FA4B-85D5-4808-A943-EC9DEBE1049A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1169FA4B-85D5-4808-A943-EC9DEBE1049A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1169FA4B-85D5-4808-A943-EC9DEBE1049A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60030AF1-26EF-4CBF-835E-C08ACCDBD105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60030AF1-26EF-4CBF-835E-C08ACCDBD105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60030AF1-26EF-4CBF-835E-C08ACCDBD105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60030AF1-26EF-4CBF-835E-C08ACCDBD105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25829838-DB87-4553-AAFE-260B53BBD9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25829838-DB87-4553-AAFE-260B53BBD9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25829838-DB87-4553-AAFE-260B53BBD9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25829838-DB87-4553-AAFE-260B53BBD9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9064957D-8AB4-406C-8CAD-8DCA4A794773}
+	EndGlobalSection
+EndGlobal
