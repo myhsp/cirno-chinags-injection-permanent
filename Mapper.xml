@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Extensibility xmlns="urn:Chinags-Extensibility-1.0" Name="远程命令行组件 v3" SymbolicName="Cirno.ChinaGS.Injection.Permanent" Version="3.0.0.1" StartLevel="80">
+  <License>RB/LORvcpvSxEoLoz04pe+yodcxTzMmOPeTnU9WJGC/75PW9zFywmJAP0pibMvkntF/nMhCQHCkIaTUMyrh96BBUI/d5Hr5Yub+rHoXppziWlLodmAjt5fBs7I5kKWzFD2zFDcu/f7HDJYfe/1N2uBWMr6+fLJ68GCBQbHDzvtU=</License>
+  <Activator Type="Cirno.ChinaGS.Injection.Permanent.Program"/>
+  <Runtime>
+    <Assembly Path="Cirno.ChinaGS.Injection.Permanent.dll" Share="true"/>
+  </Runtime>
+  <Services>
+    <Service Caption="" TypeAndName="Cirno.ChinaGS.Injection.Permanent.Service"/>
+  </Services>
+
+</Extensibility>

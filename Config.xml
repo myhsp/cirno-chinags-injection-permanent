@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings xmlns="urn:Chinags-Configuration" AddonName="Cirno.ChinaGS.Injection.Temp">
+  <Dictionaries>
+    <Dict Name="BaseConfig" Caption="">
+      <Key Caption="" Choice="" Name="Debugging" Value="false"/>
+      <Key Caption="" Choice="" Name="LocalUdpPort" Value="19260"/>
+      <Key Caption="" Choice="" Name="RemoteUdpPort" Value="19261"/>
+    </Dict>
+    <Dict Name="HttpConfig" Caption="">
+      <Key Caption="" Choice="" Name="RemoteHttpServer" Value="http://127.0.0.1:5000"/>
+      <Key Caption="" Choice="" Name="Timeout" Value="1000"/>
+      <Key Caption="" Choice="" Name="Api-StaticFile" Value="static"/>
+      <Key Caption="" Choice="" Name="Api-ResultFeedback" Value="api/resultfeed"/>
+    </Dict>
+  </Dictionaries>
+</Settings>
